@@ -1,0 +1,98 @@
+body{font-family:'IBM Plex Sans KR', sans-serif;}
+.video{
+    display: block;
+margin:0 auto;
+float:right;
+margin-top:-150px;
+
+}
+.navright{
+    float:right;
+    font-size: larger;
+}
+
+.hero {
+    clear: both;
+}
+.hero-paragraph{
+width: 50%;
+margin-left: 55px;
+color:#486052;
+font-size: xx-large;
+}
+.hero2-paragraph{
+    font-size: xx-large;
+    width:40%;
+    margin-left:55px;
+}
+.smart-phone{
+color:black;
+font-size: xxx-large;
+margin-left: 45px;
+text-shadow: 2px 2px 2px lightgray;
+}
+nav ul li
+{display:inline-block;
+font-size:large}
+.email{
+color:black;
+font-size: larger;
+padding:10px;
+box-shadow: 1px 2px 2px black;
+}
+.trial{font-size: larger;
+    margin-left: 45px;
+    color:black;
+    border-radius: 4px;
+padding:10px;
+box-shadow:2px 2px 2px black;
+margin-right: 45px;
+}
+.container{
+    background-color:beige;
+}
+
+.phone-tablets{
+    margin:50px 0px;
+
+}
+
+.phone-tablets img{
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.phone-tablets img:not(:last-child){
+    margin-left: 30px;
+}
+.phone1{
+    float:left;
+    margin-top: 45px;
+}
+.btn1{
+    font-size: larger;
+    background-color: silver;
+    margin-left: 80px;
+    padding:9px;
+    border-radius: 5%;
+}
+
+.phone-name{
+    text-align:center ;
+    font-size: larger;
+}
+.options{font-size: xx-large;
+    text-align:center;
+
+}
+.camera{
+    clear:both;
+    margin-top: 100px;
+}
+
+.camera h2{
+    text-align: center;
+    clear: both;
+    padding-top: 100px;
+    font-size:xxx-large;
+}
