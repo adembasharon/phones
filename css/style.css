@@ -9,6 +9,7 @@ margin-top:-150px;
 .navright{
     float:right;
     font-size: larger;
+    cursor: pointer;
 }
 
 .hero {
@@ -54,6 +55,7 @@ margin-right: 45px;
 
 .phone-tablets{
     margin:50px 0px;
+    overflow: hidden;
 
 }
 
@@ -69,17 +71,21 @@ margin-right: 45px;
     float:left;
     margin-top: 45px;
 }
+.main{background-color: #FBF7ED;}
 .btn1{
     font-size: larger;
-    background-color: silver;
+    cursor: pointer;
+    background-color:burlywood;
     margin-left: 80px;
     padding:9px;
-    border-radius: 5%;
+    border-radius: 8%;
+    margin-top: 1px;
 }
 
 .phone-name{
     text-align:center ;
     font-size: larger;
+    margin-top: 1px;
 }
 .options{font-size: xx-large;
     text-align:center;
@@ -96,3 +102,41 @@ margin-right: 45px;
     padding-top: 100px;
     font-size:xxx-large;
 }
+
+.camera-section div {
+    display: inline-block;
+    margin: 40px 0;
+    clear: both;
+}
+.camera2{text-align: center;
+font-size: larger;
+margin-top:1px;
+}
+.top{text-align: center;
+text-shadow: 1px 1px 1px black;
+font-size: xx-large;}
+.img{margin-left: 20px;
+border-radius: 6px;}
+.clear-camera{float:right;
+width:50%;
+font-size: xx-large;
+box-shadow:2px 2px 2px lightgray;
+background-color:#C4E7ED;
+border: none;
+ }
+ .viva-vedeo{
+     margin-left:50px;
+ }
+ .last{font-size: xx-large;
+color: blue;
+margin-left: 100px;
+text-align:center;}
+.online{
+    float: right;
+    margin-right: 100px;
+    margin-top: -500;
+}
+.last-part{background-color:#66D9E8;}
+ .phonetoo{
+     border-radius:200% ;
+ }
