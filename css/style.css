@@ -121,8 +121,10 @@ border-radius: 6px;}
 width:50%;
 font-size: xx-large;
 box-shadow:2px 2px 2px lightgray;
-background-color:#C4E7ED;
-border: none;
+background-color:#EDF4FF;
+border-style:none;margin-right: 30px;
+padding: 40px;
+text-size-adjust: 5px;
  }
  .viva-vedeo{
      margin-left:50px;
@@ -131,12 +133,9 @@ border: none;
 color: blue;
 margin-left: 100px;
 text-align:center;}
-.online{
-    float: right;
-    margin-right: 100px;
-    margin-top: -500;
-}
-.last-part{background-color:#66D9E8;}
+.last-part{background-color:blanchedalmond; overflow: hidden;}
  .phonetoo{
-     border-radius:200% ;
- }
+     border-radius:50% ;}
+     .love{float: right;
+    font-size: x-large;
+font-weight: bold;}
